@@ -6,6 +6,7 @@ body{
     align-items: center;
     gap: 10px;
     margin: 0;
+    font-family: "Inter", sans-serif;
 }
 * {
     box-sizing: border-box;
