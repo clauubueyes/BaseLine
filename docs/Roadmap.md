@@ -4,7 +4,7 @@
 - [x] Crear estructura inicial del proyecto
 - [x] Crear página principal
 - [x] Añadir secciones informativas
-- [ ] Añadir navegación
+- [x] Añadir navegación
 - [ ] Crear footer
 - [ ] Diseñar estilos generales
 - [ ] Hacer la web responsive
