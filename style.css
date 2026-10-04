@@ -5,10 +5,20 @@ body{
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+}
+main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 .main-navigation{
     display: flex;
     gap: 20px;
+    margin-top: 10px;
 }
 .main-navigation a{
     color : black;
@@ -17,10 +27,7 @@ body{
 .info-card{
     border-color: gray;
     background-color : #ffffff; 
-    border-radius : 10px;
-    border-width : 1px;
-    border-style : solid;
-    width: fit-content; 
-    padding: 10px 200px;
-    
+    border: 1px solid gray;
+    padding: 20px;
+    margin-bottom: 10px;
 }
